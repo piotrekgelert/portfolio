@@ -1,0 +1,44 @@
+header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: baseline;
+  width: 100%;
+  padding: 15px 20px 20px;
+  background-color: #333;
+}
+
+.header-title {
+  font-weight: lighter;
+  margin: 3px 0 10px;
+}
+
+@media all and (min-width: 600px) {
+  .header-title {
+    font-size: xx-large;
+  }
+}
+
+.header-links {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.header-links a:first-of-type {
+  margin-right: 10px;
+}
+
+.header-links a:hover,
+.header-links a:active {
+  color: #ff9900;
+}
+
+@media all and (min-width: 600px) {
+  header {
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    padding: 15px 30px;
+  }
+}

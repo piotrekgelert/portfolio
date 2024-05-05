@@ -1,0 +1,93 @@
+{
+  "details": {
+    "name": "Piotr Ciupinski",
+    "links": {
+      "GitHub": "https://github.com/piotrekgelert",
+      "LinkedIn": "https://github.com/piotrekgelert"
+    }
+  },
+  "projects": [
+    {
+      "label": "MP3 Player and Radio",
+      "imageName": "mp3_player.png",
+      "description": "The mp3 player with radio application made in Python 3.11 with help of pygame, miniaudio and pyqt6",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/radio-mp3-player",
+        "Another link": "https://github.com/piotrekgelert"
+      },
+      "tags": ["Python", "Another tag"]
+    },
+    {
+      "label": "Port Scanner",
+      "imageName": "found_ports.png",
+      "description": "Port scanner application made in python 3.12 with pyqt6",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/port-scanner"
+      },
+      "tags": ["Python", "Other tag", "Another tag"]
+    },
+    {
+      "label": "Currency Converter",
+      "imageName": "converted.png",
+      "description": "Currency converter application made with pyqt6 in Python 3.87",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/basic-currency-converter"
+      },
+      "tags": ["Python"]
+    },
+    {
+      "label": "Batch Image Resizer",
+      "imageName": "pixels.png",
+      "description": "Tool to resize images in bathes made in Python 3.87 and pyqt 6",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/batch-image-resizer"
+      },
+      "tags": ["Python"]
+    },
+    {
+      "label": "Image Resizer",
+      "imageName": "image_resizer_pixels.png",
+      "description": "Tool to resize images made in Python 3.87 and pyqt 6",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/Image-resizer-tool"
+      },
+      "tags": ["Python"]
+    },
+    {
+      "label": "Thumbnail Resizer",
+      "imageName": "app_view.png",
+      "description": "Description of the project",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/project-name"
+      },
+      "tags": ["Python"]
+    },
+    {
+      "label": "Register and Login",
+      "imageName": "register.png",
+      "description": "Login form made in Python 3.87 and pyqt6",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/register-sign-in-form-pyqt"
+      },
+      "tags": ["Python", "PyQt"]
+    },
+    {
+      "label": "Basic Database Starter",
+      "imageName": "starter.png",
+      "description": "Description of the project",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/project-name"
+      },
+      "tags": ["Python", "PyQt"]
+    },
+    {
+      "label": "Image Editor",
+      "imageName": "waterfall.jpg",
+      "description": "Description of the project",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/project-name"
+      },
+      "tags": ["Python"]
+    }
+  ]
+}
