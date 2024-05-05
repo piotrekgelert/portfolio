@@ -3,7 +3,7 @@
     "name": "Piotr Ciupinski",
     "links": {
       "GitHub": "https://github.com/piotrekgelert",
-      "LinkedIn": "https://github.com/piotrekgelert"
+      "LinkedIn": "https://www.linkedin.com/in/piotr-ciupinski-077057264/"
     }
   },
   "projects": [
@@ -12,19 +12,9 @@
       "imageName": "mp3_player.png",
       "description": "The mp3 player with radio application made in Python 3.11 with help of pygame, miniaudio and pyqt6",
       "links": {
-        "Github repository": "https://github.com/piotrekgelert/radio-mp3-player",
-        "Another link": "https://github.com/piotrekgelert"
+        "Github repository": "https://github.com/piotrekgelert/radio-mp3-player"
       },
-      "tags": ["Python", "Another tag"]
-    },
-    {
-      "label": "Port Scanner",
-      "imageName": "found_ports.png",
-      "description": "Port scanner application made in python 3.12 with pyqt6",
-      "links": {
-        "Github repository": "https://github.com/piotrekgelert/port-scanner"
-      },
-      "tags": ["Python", "Other tag", "Another tag"]
+      "tags": ["Python", "PyQt", "Pygame", "miniaudio", "FFmpg", "tinytag"]
     },
     {
       "label": "Currency Converter",
@@ -33,34 +23,16 @@
       "links": {
         "Github repository": "https://github.com/piotrekgelert/basic-currency-converter"
       },
-      "tags": ["Python"]
+      "tags": ["Python", "PyQt", "PIL", "Gimp"]
     },
     {
-      "label": "Batch Image Resizer",
-      "imageName": "pixels.png",
-      "description": "Tool to resize images in bathes made in Python 3.87 and pyqt 6",
+      "label": "Port Scanner",
+      "imageName": "found_ports.png",
+      "description": "Port scanner application made in python 3.12 with pyqt6",
       "links": {
-        "Github repository": "https://github.com/piotrekgelert/batch-image-resizer"
+        "Github repository": "https://github.com/piotrekgelert/port-scanner"
       },
-      "tags": ["Python"]
-    },
-    {
-      "label": "Image Resizer",
-      "imageName": "image_resizer_pixels.png",
-      "description": "Tool to resize images made in Python 3.87 and pyqt 6",
-      "links": {
-        "Github repository": "https://github.com/piotrekgelert/Image-resizer-tool"
-      },
-      "tags": ["Python"]
-    },
-    {
-      "label": "Thumbnail Resizer",
-      "imageName": "app_view.png",
-      "description": "Description of the project",
-      "links": {
-        "Github repository": "https://github.com/piotrekgelert/project-name"
-      },
-      "tags": ["Python"]
+      "tags": ["Python", "PyQt"]
     },
     {
       "label": "Register and Login",
@@ -69,25 +41,52 @@
       "links": {
         "Github repository": "https://github.com/piotrekgelert/register-sign-in-form-pyqt"
       },
-      "tags": ["Python", "PyQt"]
+      "tags": ["Python", "PyQt", "phpMyAdmin"]
     },
     {
       "label": "Basic Database Starter",
       "imageName": "starter.png",
-      "description": "Description of the project",
+      "description": "Basic database starter managing system with pyqt6 and php myadmin",
       "links": {
-        "Github repository": "https://github.com/piotrekgelert/project-name"
+        "Github repository": "https://github.com/piotrekgelert/basic-database_starter-with-pyqt6"
       },
-      "tags": ["Python", "PyQt"]
+      "tags": ["Python", "PyQt", "phpMyAdmin"]
+    },
+    {
+      "label": "Batch Image Resizer",
+      "imageName": "pixels.png",
+      "description": "Tool to resize images in bathes made in Python 3.87 and pyqt 6. The project was create as a helper tool for Currency Converter",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/batch-image-resizer"
+      },
+      "tags": ["Python", "PyQt", "PIL"]
+    },
+    {
+      "label": "Image Resizer",
+      "imageName": "image_resizer_pixels.png",
+      "description": "Tool to resize images made in Python 3.87 and pyqt 6",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/Image-resizer-tool"
+      },
+      "tags": ["Python", "PyQt", "PIL"]
+    },
+    {
+      "label": "Thumbnail Resizer",
+      "imageName": "app_view.png",
+      "description": "Tool to resize PNG image to its very small version made with PIL library and pyqt.",
+      "links": {
+        "Github repository": "https://github.com/piotrekgelert/thumbnail-resizer-tool"
+      },
+      "tags": ["Python", "PyQt", "PIL"]
     },
     {
       "label": "Image Editor",
       "imageName": "waterfall.jpg",
-      "description": "Description of the project",
+      "description": "Simple image editor made with pillow and tkinter",
       "links": {
-        "Github repository": "https://github.com/piotrekgelert/project-name"
+        "Github repository": "https://github.com/piotrekgelert/simple-image-editor"
       },
-      "tags": ["Python"]
+      "tags": ["Python", "PIL", "Tkinter"]
     }
   ]
 }
